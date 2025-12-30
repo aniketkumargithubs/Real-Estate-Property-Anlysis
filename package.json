@@ -1,0 +1,12 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "A comprehensive MERN stack application that uses OpenAI's GPT-4 to analyze real estate properties and provide market insights, comparative analysis, and price recommendations.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

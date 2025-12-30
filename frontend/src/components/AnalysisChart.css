@@ -1,0 +1,87 @@
+.analysis-chart h2 {
+  color: #333;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+
+.chart-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.chart-controls button {
+  padding: 0.75rem 1.5rem;
+  border: 2px solid #e0e0e0;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s;
+  color: #666;
+}
+
+.chart-controls button:hover {
+  border-color: #667eea;
+  color: #667eea;
+}
+
+.chart-controls button.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-color: #667eea;
+}
+
+.chart-container {
+  background: #fafafa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  min-height: 450px;
+}
+
+.empty-chart {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #999;
+}
+
+.empty-chart p {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.empty-chart .hint {
+  font-size: 0.9rem;
+  color: #bbb;
+}
+
+.chart-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.summary-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.summary-label {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.summary-value {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #667eea;
+}
+
