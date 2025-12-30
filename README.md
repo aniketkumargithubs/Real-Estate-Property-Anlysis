@@ -226,9 +226,17 @@ Real Estate/
 
 The application includes:
 - Property input form
+  <img width="2808" height="1472" alt="image" src="https://github.com/user-attachments/assets/bffe05b6-647a-4975-902f-f176b3d3ce0a" />
+
 - Property listing cards
+  <img width="2810" height="1332" alt="image" src="https://github.com/user-attachments/assets/f3eb1bf0-ae95-4e61-ad50-3a1ec656cd27" />
+
 - AI analysis results
+  <img width="1086" height="1516" alt="image" src="https://github.com/user-attachments/assets/f642da06-3f5e-492f-b054-f155139875aa" />
+
 - Comparative market analysis charts
+  <img width="2744" height="1542" alt="image" src="https://github.com/user-attachments/assets/4756a607-bf81-4584-b7f9-b781438a4930" />
+
 - Detailed property insights
 
 ## 🔒 Environment Variables
